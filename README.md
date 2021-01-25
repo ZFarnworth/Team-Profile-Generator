@@ -49,6 +49,3 @@ zacharyfarnworth@gmail.com
 for additional questions
 Watch this video for a demonstration of how to use the app:
 https://drive.google.com/file/d/1yj9nfNIrrGInv85j_4DPXaL6t3A0e9gC/view?usp=sharing
-
-![](/assets/images/tpg.PNG)
-![](/assets/images/tpgHTML.PNG)
